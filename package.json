@@ -1,0 +1,17 @@
+{
+  "name": "100681357_comp3123_exec04",
+  "version": "1.0.0",
+  "description": "Lab exerise 4",
+  "main": "labEx4.js",
+  "scripts": {
+    "start": "nodemon labEx4.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jeff mcilveen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  }
+}
